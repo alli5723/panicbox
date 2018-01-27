@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#28292d</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#007ca9</color>
+    <color name="defaultBackground">#000000</color>
+    <color name="defaultText">#ffffff</color>
+    <color name="defaultHintText">#cfcfcf</color>
+    <color name="transparentBg">#11ffffff</color>
+
+    <color name="errorBackground">#a3ff4400</color>
+    <color name="dangerBackground">#860000</color>
+</resources>

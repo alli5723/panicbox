@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="defaultMargin">8dp</dimen>
+    <dimen name="largeMargin">64dp</dimen>
+    <dimen name="buttonHeight">120dp</dimen>
+    <dimen name="inputHeight">50dp</dimen>
+    <dimen name="paddingToParentTop">15dp</dimen>
+</resources>

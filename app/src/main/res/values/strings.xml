@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PanicBox</string>
+    <string name="emergency">37256781061</string>
+    <string name="robbery">Robbery</string>
+    <string name="accident">Accident</string>
+    <string name="fire">Fire</string>
+    <string name="registerationNotice">You have not created an account yet.</string>
+
+    <string name="createProfile">Create Profile</string>
+    <string name="requestHelp">Request Help</string>
+    <string name="perm">We need your permission to send out messages in Emergency situations</string>
+    <string name="info">PanicBox \n is here to help, in time of need,
+        all you need do is press any of the buttons and we will alert all emergency
+    response units and also inform your emergency contacts, if you have registered them.</string>
+</resources>
